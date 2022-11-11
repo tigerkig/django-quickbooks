@@ -1,0 +1,20 @@
+[INFO] [2022-11-09 16:07:56,910] Watching for file changes with StatReloader
+[INFO] [2022-11-09 16:09:20,568] Watching for file changes with StatReloader
+[INFO] [2022-11-09 16:09:58,095] E:\Python\timeTracker\time-tracking-quick-books\quickbooks\settings.py changed, reloading.
+[INFO] [2022-11-09 16:10:06,641] Watching for file changes with StatReloader
+[INFO] [2022-11-09 16:10:19,606] E:\Python\timeTracker\time-tracking-quick-books\quickbooks\settings.py changed, reloading.
+[INFO] [2022-11-09 16:10:24,929] Watching for file changes with StatReloader
+[INFO] [2022-11-09 16:11:26,759] Watching for file changes with StatReloader
+[INFO] [2022-11-09 16:14:25,221] E:\Python\timeTracker\time-tracking-quick-books\quickbooks\settings.py changed, reloading.
+[INFO] [2022-11-09 16:14:31,210] Watching for file changes with StatReloader
+[INFO] [2022-11-09 16:14:39,495] Initializing application {http://developer.intuit.com/}Application...
+[INFO] [2022-11-09 16:15:52,899] E:\Python\timeTracker\time-tracking-quick-books\quickbooks\settings.py changed, reloading.
+[INFO] [2022-11-09 16:15:59,061] Watching for file changes with StatReloader
+[INFO] [2022-11-09 16:16:06,405] Initializing application {http://developer.intuit.com/}Application...
+[INFO] [2022-11-09 16:17:07,140] Initializing application {http://developer.intuit.com/}Application...
+[INFO] [2022-11-09 16:17:52,146] Watching for file changes with StatReloader
+[INFO] [2022-11-09 16:17:57,208] Initializing application {http://developer.intuit.com/}Application...
+[WARNING] [2022-11-09 16:20:25,916] Not Found: /api/payroll_time_period
+[INFO] [2022-11-09 16:35:10,405] E:\Python\timeTracker\time-tracking-quick-books\quickbooks\trackerApi\views.py changed, reloading.
+[INFO] [2022-11-09 16:35:26,932] Watching for file changes with StatReloader
+[INFO] [2022-11-09 16:35:41,980] Initializing application {http://developer.intuit.com/}Application...
